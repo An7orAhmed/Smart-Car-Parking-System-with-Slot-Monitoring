@@ -1,4 +1,3 @@
-```markdown
 # Smart Car Parking System with Slot Monitoring
 
 ## Project Description
@@ -49,4 +48,3 @@ Circuit diagrams and pin configurations may require adjustments based on specifi
 - `car_parking.ino`: Arduino code with servo control and LCD interface
 - Custom LCD character patterns for vehicle status display
 - Motor control routines for two types of actuator mechanisms
-```
